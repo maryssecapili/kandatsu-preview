@@ -1,2 +1,2 @@
-# kandatsu-preview.github.io
+# kandatsu-preview
 Preview for Kandatsu Landing Page
